@@ -86,7 +86,11 @@ Hackathon Projects   →     Fast ideas turned into working products
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Abhijeet29Git/Abhijeet29Git/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeet29Git/Abhijeet29Git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeet29Git/Abhijeet29Git/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abhijeet29Git/Abhijeet29Git/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
